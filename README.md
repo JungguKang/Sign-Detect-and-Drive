@@ -1,4 +1,5 @@
 # 프로젝트1 - 표지판 검출
+[설명 동영상](https://youtu.be/FAzRzqouu30)
 
 ---
 
